@@ -14,5 +14,5 @@ Le but de ce dépôt est de stocker et de partager mes discours personnels et le
 Chaque discours sera stocké dans un dossier séparé. Les dossiers seront nommés d'après la date du discours, dans le format `AAA-MM-JJ`. Ils contiendront éventuellement les fichiers suivants :
 
 - un fichier texte contenant les objectifs du discours et les éventuelles contraintes, au format `objectifs.md` (Markdown)
-- une mindmap, au format `mindmap.md`, contenant des diagrammes [Mermaid] (https://mermaid.js.org/syntax/mindmap.html)
+- une mindmap, au format `mindmap.md`, contenant des diagrammes [Mermaid](https://mermaid.js.org/syntax/mindmap.html)
 - un fichier texte contenant le discours (ou une approximation), au format `discours.md` (Markdown)
