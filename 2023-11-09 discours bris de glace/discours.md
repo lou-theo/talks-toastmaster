@@ -16,7 +16,7 @@ Il me semble qu'en réalité c'est le parcours d'un grand nombre de personnes qu
 
 ## Transition
 
-Puis j'ai eu un flash !
+Puis j'ai eu un flash, l'idée géniale !
 Quelques mois après mes débuts dans mon entreprise actuelle, il y a 2 ans, on m'a proposé de passer le test Gallup !
 > mimique de cheval au galop?
 
@@ -28,20 +28,20 @@ Il y en a 34 réparties réparties à peu près équitablement en 4 domaines : e
 
 Mon résultat ? A moi ?
 > demander au public si ça l'intéresse
-> Regarder sa montre / téléphone
 
-En même temps...
-C'est vrai qu'il est un peu tôt pour aller boire un verre... Autant en profiter !
+C'est un peu personnel quand même... On se connait à peine en plus ! <br/>
+Bon allez... Puisque vous insistez...
 
 Mes forces ont été soit en reflexion soit exécution. Moitié moitié ! <br/>
-Rien dans le social.
+Rien ni dans l'influence ni dans la relation. <br/>
+NADA !
 
 ## Transition
 
 Bon alors, je dois vous faire une confidence, je suis assez sceptique sur ce genre de tests. <br/>
-En revanche, je pense qu'ils sont au moins le reflet que l'on a de nous même.
+Toutefois, lorsque je regarde la tête de liste, je retrouve des choses qui résonnent en moi.
 
-Notamment, l'une des 1eres forces qui est ressorti est ce qu'ils appellent "réalisateur" et que je vais définir comme étant "de l'implication".
+Notamment, l'une des 1eres forces est ce qu'ils appellent "réalisateur" et que je vais définir plus simplement comme étant "de l'implication".
 
 ## Partie 2 : Implication
 
@@ -52,7 +52,7 @@ je m'investis
 j'y mets les moyens !
 > taper du pied
 
-Mon travail, c'est de devélopper des sites web. Aujourd'hui, ça occupe la majorité de mon temps mais je me suis trouvé de nombreuses autres occupations professionnelles pour me divertir.
+Aujourd'hui, mon travail, c'est de devélopper des sites web. Ca occupe la majorité de mon temps mais je me suis trouvé de nombreuses autres occupations professionnelles pour me divertir.
 
 Cette semaine il y avait les votes pour le CSE de mon entreprise. J'en fais désormais partie et je serai possiblement amené à négocier avec ma direction.
 
@@ -67,7 +67,7 @@ Depuis plus longtemps, j'ai également commencé à :
 
 Là, normalement vous devez être un peu interloqué.
 > Mimique de réflexion
-> 
+>
 > "Alors il y a 3 min il nous dit être asocial et là il dit faire tout l'inverse..."
 
 Eh bien ! Justement !
