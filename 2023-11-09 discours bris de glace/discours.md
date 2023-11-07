@@ -23,10 +23,10 @@ Quelques mois après mes débuts dans mon entreprise actuelle, il y a 2 ans, on 
 ## Partie 1 : Test Gallup
 
 Alors rassurez vous, il ne s'agit pas de savoir monter à cheval. Il s'agit d'un test de personnalité qu'on appelle aussi forces de Clifton. <br/>
-Son but est d'identifier la liste de nos 10 plus grandes forces. <br/>
+Son but est d'identifier la liste de nos 10 plus grands atouts. <br/>
 Il y en a 34 réparties réparties à peu près équitablement en 4 domaines : exécution, influence, relation et reflexion.
 
-Mon résultat ? A moi ?
+Mes résultats ? A moi ?
 > demander au public si ça l'intéresse
 
 C'est un peu personnel quand même... On se connait à peine en plus ! <br/>
@@ -36,12 +36,17 @@ Mes forces ont été soit en reflexion soit exécution. Moitié moitié ! <br/>
 Rien ni dans l'influence ni dans la relation. <br/>
 NADA !
 
+Pas fameux comme bilan... :x <br/>
+
 ## Transition
 
-Bon alors, je dois vous faire une confidence, je suis assez sceptique sur ce genre de tests. <br/>
-Toutefois, lorsque je regarde la tête de liste, je retrouve des choses qui résonnent en moi.
+Bon alors, je dois vous avouer que je suis un peu mitigé.
 
-Notamment, l'une des 1eres forces est ce qu'ils appellent "réalisateur" et que je vais définir plus simplement comme étant "de l'implication".
+Une partie de moi pense que cela n'est pas du tout fiable et que cela ne vaut pas grand chose.
+Une autre part se dit que ce test a probablement le mérite de renvoyer l'image que l'on a de nous même.
+
+En tout cas, ce dont je suis certain, c'est qu'en regardant la tête de liste de mes forces, je retrouve des choses qui résonnent en moi. <br/>
+Notamment, un élément qu'ils appellent "réalisateur" et que je vais définir plus simplement comme étant "de l'implication".
 
 ## Partie 2 : Implication
 
