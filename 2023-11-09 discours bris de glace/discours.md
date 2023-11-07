@@ -63,6 +63,8 @@ Depuis plus longtemps, j'ai également commencé à :
 - former
 - faire du mentorat
 
+Tout un tas de choses qui m'animent au quotidien et m'amènent inévitablement à me mettre en avant.
+
 ## Conclusion
 
 Là, normalement vous devez être un peu interloqué.
