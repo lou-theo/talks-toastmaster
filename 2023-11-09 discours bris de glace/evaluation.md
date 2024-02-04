@@ -17,7 +17,7 @@
 ### Vous avez excellé à
 
 > Briser la glace, Oui !
-> Tu as surmonté ta peur de parler. Cela demande une colonté qui va t'accompagner
+> Tu as surmonté ta peur de parler. Cela demande une volonté qui va t'accompagner
 
 ### Vous pouvez vous améliorer concernant
 
