@@ -1,12 +1,12 @@
-# Mindmaps
+# Mind map
 
 ## Pourquoi / comment toastmasters
 
 ```mermaid
 mindmap
   root((root))
-    annecdotes
-      descente en rappel en lozère
+    anecdotes
+      descente en rappel en Lozère
       amie de Stéphane qui a créé une BD sur les loups
       comment j'en suis arrivé à faire mon discours
       entrepreneuse soutien gorge
@@ -33,12 +33,12 @@ mindmap
         "l'autre" soit mauvais/méchant
         pas légitime
         timide
-    parallele piscine
+    parallèle piscine
       seulement l'été pour les dames
       1ere fois
         douche chaude
         ressenti piscine gelée
-        nager pour se rechauffer
+        nager pour se réchauffer
         zut piscine olympique, pas le souffle
         collègue qui fait 1 longueur sans respirer
       2eme fois
@@ -46,17 +46,17 @@ mindmap
         ressenti piscine plus chaud
         plus de souffle, peut faire ma longueur
       on ressort toujours content
-    parallele discours
+    parallèle discours
       douche => préparation
         répétitions
         eau
-        étirements machoir
+        étirements mâchoire
       piscine
         stress devant les autres
         inconfort
       nage
         réussir à sortir des blancs
-        controler la durée de son discours
+        contrôler la durée de son discours
       fin
         satisfaction
         plus facile de retourner dans le bain prochaine fois
@@ -64,7 +64,7 @@ mindmap
       saisir les opportunités qui nous tiennent à coeur
     discours tech externe
       1 an que j'ai ça en tête
-      candidature tremplin mixit
+      candidature tremplin Mixit
         me fixe une deadline pour mars
         pas ma priorité du moment mais prêt à la mettre en 1ere
         pas retenu
