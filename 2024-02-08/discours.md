@@ -36,7 +36,7 @@ Fort de nos expériences, les fois suivantes, on ne se fait pas avoir !
 On arrive avec un plan d'attaque :
 on prend la douche au maximum tiède !
 Quand on rentre dans l'eau, on a ainsi beaucoup moins froid, tout étant question de différence de température
-On part moins vite et on apprend à chaque fois à mieux gérer notre respiration. C'est vraiment important de savoir respirer quand on est dans l'eau !
+On part moins vite et on apprend à chaque fois à mieux gérer notre respiration. C'est important de savoir respirer quand on est dans l'eau !
 
 Quoi qu'il arrive, à chaque fois qu'on ressort, il n'y a pas à dire, on se sent vraiment bien... et on a hâte de revenir la prochaine fois !
 
@@ -74,14 +74,7 @@ On a souvent les mêmes blocages qui reviennent :
 
 Bien entendu, tout cela est compliqué et chacun à une manière différente de le vivre.
 
-[//]: # (Je tiens d'ailleurs à féliciter les nouveaux membres et les invités. Vous avez décidé de faire face à l'inconnu en venant ce soir.)
-
-[//]: # (> Demander d'applaudir)
-
-[//]: # ()
-[//]: # (Ce risque et le temps que vous y investissez tend à montrer qu'il y a une certaine importance pour vous à venir ici.)
-
-Justement, je pense que l'une des choses les plus compliqués est de conscientiser l'importance de nos buts.
+Personnellement, je pense que l'une des choses les plus compliqués est de conscientiser l'importance de nos buts.
 En général, nos listes de choses à faire sont si longues que l'on ne sait plus où donner de la tête.
 Par conséquent, si cela n'a finalement pas d'importance, inutile de continuer à s'encombrer avec cela ou de se mentir en se disant qu'on le fera plus tard.
 En revanche, si cela nous tient à cœur, on va essayer de monter notre niveau de confiance :
@@ -94,10 +87,6 @@ Lorsque l'on aura établi qu'une chose est à la fois importante et que l'on est
 
 Parfois il nous manque tout de même un dernier petit élan, il faut alors savoir se forcer à agir, même si cela fait peur, qu'on ne se sent pas prêt.
 Du moins c'est ce que j'essaye d'appliquer.
-
-C'est ainsi que j'ai candidaté à une conférence technique en tant que présentateur, presque sur un coup de tête, pour me forcer à y aller.
-Finalement, je n'ai pas été retenu, mais j'ai pu avoir des retours sur ma candidature et discuter avec l'organisateur.
-Cette présentation, je prévois de lui fixer une date avec un groupe local. Rien n'est prêt, mais ça me forcera à enfin franchir ce pas que j'ai en tête depuis un an.
 
 ## Conclusion
 
